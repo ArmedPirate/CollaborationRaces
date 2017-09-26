@@ -12,6 +12,8 @@ Brief description
 
 ***Speed.*** Base walking speed between 20-50 feet relative to size. Can optionally include swim/climb/fly/burrow etc speeds.
 
+***Vision.*** Location for Darkvision, Blindsight, Tremor Sense, etc. Darkvision Conventions are 60 normal 120 add Sunlight Sens below.
+
 ***Basic Traits.*** Trait description.
 
 ***Spellcasting Conventions.*** General guideline: spells can scale with level progression. More powerful monsters, such as Dryads or Illithids, may have higher level spell access for 3rd possibly weak 4th level spells. Keep within reason and limit spells above cantrips to once per long rest in general. Grouping of 3-5 max.
