@@ -1,4 +1,4 @@
-# CollaborationRaces
+# Collaboration Races
 Monstrous and Other Popular Races made in Markdown
 
 Goal: Be a general outline for popular races that people can look to to find consistency. The intent is for this to be THE resource for Centaurs, Saytrs, Race Reduxs for unpopular traits for monsters from Volo's and other popular races that have no standard elsewhere. 
