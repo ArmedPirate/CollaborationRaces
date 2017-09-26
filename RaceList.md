@@ -15,12 +15,13 @@ Just a list of ideas for when inspiration strikes or you have 15 minutes and are
 - Fey (Boggles, Pixies, Sprites, Dryads, Sirens, Saytr)
 - Giant Race/Subrace?
 - Grung
+- Half-Ogre/Ogrillon
 - Half-Troll
 - Kuo-toa
 - Merfolk
 - Modron
 - Myconid
-- Half-Ogre (Variant of Half Orc?)
+- Pterafolk/Saurial
 - Sahuagin 
 - Shadar-kai
 - Shardmind
