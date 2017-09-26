@@ -6,7 +6,6 @@ Just a list of ideas for when inspiration strikes or you have 15 minutes and are
 
 
 
-- Modrone
 - Abberation
 - Angel/Demon (Archons, Imps, etc)
 - Bladeling
@@ -19,6 +18,7 @@ Just a list of ideas for when inspiration strikes or you have 15 minutes and are
 - Half-Troll
 - Kuo-toa
 - Merfolk
+- Modron
 - Myconid
 - Half-Ogre (Variant of Half Orc?)
 - Sahuagin 
