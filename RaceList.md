@@ -7,10 +7,18 @@ Just a list of ideas for when inspiration strikes or you have 15 minutes and are
 - Bullywug
 - Grung
 - Centaur
-- Dryad
-- Saytr
 - Modrone
 - Angel/Demon (Archons, Imps, etc)
 - Abberation
-- Fey (Boggles, Pixies, Faeries)
-- Elementals (Mephits)
+- Fey (Boggles, Pixies, Sprites, Dryads, Sirens, Saytr)
+- Elementals (Mephits, Magmin, Azer)
+- Merfolk
+- Myconid
+- Half-Ogre (Variant of Half Orc?)
+- Sahuagin 
+- Troglodyte
+- Half-Troll
+- Giant Race/Subrace?
+- Yuanti Malisons +?
+
+- Werewolf/Vampire Race Variants (as Revnant) 
