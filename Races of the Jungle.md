@@ -1,6 +1,22 @@
 
 # Races of the Jungle
 
+##### Races for Exploring High-Fantasy Jungles in the World's Greatest Roleplaying Game
+
+The air  is thick and muggy. The insects stick to your skin, biting and sucking at your open wounds. You've been traveling for days, weeks, maybe months, you can't remember. All you know is you've put your faith and coin in the stout frog-man before you to take you where you most desire. 
+
+One misstep and you are flung into the air, hanging by one leg by a snare. From the foliage a band of skinks let out a volley of blowgun needles, piercing your worn flesh and knocking you unconscious with their poisons.
+
+You awake to the sight of a burning flame before you. Hissing voices echo and chant around you. As your eyes begin to adjust and the haze fades, you see yourself surrounded and bound above a fire pit. Serpent creatures chant in tongues, eager for the sacrifice to their hungering deity. 
+
+The feral creatures of the jungle are often seen as hostile enemies that only desire your head. This is not always true; many seek coin and adventure like any other hero and offer a valuable service to those seeking their fortune. 
+
+This brief guide offers rules for playing as common jungle races such as Bullywugs and Grungs while addressing some existing races and tweaking them to offer a variance to existing ways to play characters in a jungle environment.
+
+# New Races
+##### Bullywugs and Grung, Half-Fey and Saurials 
+The following are three unique races commonly found in jungle settings. 
+
 ## Bullywugs and Grung
 The frog-folk are two groups of humanoids that live within different ecosystems. Despite sharing some similar biological traits, these two cousins differ greatly in philosophy and lifestyle.
 
@@ -17,8 +33,6 @@ Some abandon their tribal lives and sell their expertise to adventurers. Those w
 |7| Damp, muddy cellars are your ideal place to rest.
 |8| You store spare items in your mouth out of habit. Sometimes that includes your allies boots. 
 
-
-
 ### Frog-folk Traits
 
 While grung and bullywug societies differ, their core racial traits remain the same. 
@@ -27,10 +41,11 @@ While grung and bullywug societies differ, their core racial traits remain the s
 
 ***Age.*** Frog-folk reach maturity around age 10 and rarely live longer than 40 years.
 
+***Speed.*** Your base walking speed is 25 feet.
+
 ***Amphibious.*** You can breathe air and water.
 
 ***Speak with Frogs and Toads.*** You can communicate simple concepts to frogs and toads when you speak in Bullywug or Grung. 
-
 
 ***Standing Leap.*** Your long jump is up to 20 feet and your high jump is up to 10 feet, with or without a running start.
 
@@ -39,30 +54,26 @@ While grung and bullywug societies differ, their core racial traits remain the s
 #### Bullywug 
 Bullywugs are the larger swamp dwelling frog-folk. Obsessed with proving themselves and gaining the appreciation, respect or at least fear from others, bullywugs seek out adventure as a way to achieve these fundamental goals. 
 
-
 ***Alignment.*** Bullywugs society and place in their world pushes them toawrds evil. Their societies focuse around appearnces and power. While some use deception and trickery to achieve these ideals and lend themselves to chaos, the majority stick to neutral methods and traits.
 
-***Speed.*** Your base walking speed is 25 feet, and you have a swimming speed of 40 feet.
+***Swim.*** You have a swimming speed of 40 feet.
 
 ***Size.*** Bullywugs are between 4 and 5 feet tall. Your size is Medium. 
-
 
 ***Swamp Camouflage.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
 In addition, ou have advantage on Dexterity (Stealth) checks made to hide in swampy terrain. 
 
-
 ***Bellowing Croak.*** As a bonus action, you let out a booming croak. Your voice becomes five times louder than normal until the start of your next turn. When using this feature, you speak up to three words in Bullywug before the effect fades. While using this feature, you can not speak any other language. 
 
 ***Languages.*** You speak Common and  Bullywug.
-
 
 #### Grung
 Grung are the smaller jungle dwelling cousin of the Bullywug. Their vibrant skin color makes them fit in better to the lush tropical environment. Their caste system shapes their culture. For more information on grung culture, see *Volo's Guide to Monsters*, pg. 156.
 
 ***Alignment.*** Grung are superstitious and tribal creatures. They rarely seek out  higher order than their basic skin color caste system nor will they work against this system. They are typically neutral or lawful neutral.
 
-***Speed.*** Your base walking speed is 25 feet, and you have a climbing speed of 25 feet.
+***Climb.*** You have a climbing speed of 25 feet.
 
 ***Size.*** Grung are smaller than their larger swamp-dwelling cousins growing only to 2 and a half to 3 feet tall. Your size is Small.
 
@@ -72,12 +83,7 @@ A poisoned creature no longer in direct contact with you can repeat the saving t
 
 Once you use this feature, you cannot again until you complete a short or long rest. 
 
-
 ***Languages.*** You speak Common and Grung.
-
-
-
-\page
 
 > ##### Variant Feat: Colored Grung Poison
 > Optionally and with DM approval, you can take this varient feat.
@@ -88,29 +94,20 @@ Once you use this feature, you cannot again until you complete a short or long r
 >- You no longer must complete a short or long rest to use your ***poisonous skin*** trait again.
 >- Choose one of the following colors: Green, Blue, Purple, Red, Orange. Gold. In addition to being poisoned, creatures that fail the Constitution saving throw are subjected to the affects of the Grung Poison of the specified color as detailed in *Volo's Guide to Monsters*, pg. 156 win the Variant: Grung Poison sidebar.
 
-
 ## Half-Fey
-Half-fey come into the world from a fey creature taking interest in a beautiful humanoid. While the relationships are normally lustful and fleeting, they  occasionally result in the birth of a half-fey. These lost souls are stuck between the world of the fey and the mundane life of man. 
-
-
-
-Your heritage can optionally result in a racial quirk detailed in your subrace.
-
+Half-fey come into the world from a fey creature taking interest in a beautiful humanoid. While the relationships are normally lustful and fleeting, they  occasionally result in the birth of a half-fey. These lost souls are stuck between the world of the fey and the mundane life of man. One trait almost all share is their captivating beauty.
 
 ### Half-Fey Traits
 
 ***Ability Score Increase.*** Your Charisma score increases by 2 and your Wisdom score increases by 1.
 
-
 ***Alignment.*** Heritage to the feywild largely lends creatures innate drive to focus around chaos. Half-fey typically have wild mood shifts like the seasons and can vary in alignment.
-
 
 ***Size.*** Half-fey are slightly smaller than humans. They average around 5 feet in height. Your size is Medium.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
 ***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can not put you to sleep.
-
 
 ***Naturally Charming.*** You have proficiency in the Persuasion skill. 
 
@@ -125,7 +122,6 @@ Half-dryads naturally grow leaves and twigs from their body, and those who take 
 ***Ability Score Improvement.*** Your Wisdom score increases by 1.
 
 ***Age.*** Half-dryad's age is tied to their parent's tree's age. The longer the parent's tree's life, the longer the child's. Because of this, half-dryad ages vary greatly. All mature around age 18 but some live only into their 50s while others can live to be 500 and older.
-
 
 ***Quirk.*** Optionally, you can roll on the following table and develop a quirk associated with your your fey heritage. 
 
@@ -143,9 +139,6 @@ Half-dryads naturally grow leaves and twigs from their body, and those who take 
 Once you use this feature, you cannot use it again until you finish a short or long rest.
 
 ***Dryad's Legacy.*** You know the *duidcraft* cantrip. Once you reach 3rd level, you can cast *entangle* and *speak with animals* with this trait, and once you reach 5th level, you can cast *barkskin* with it. Once you cast a spell of first level or higher with this feature, you cannot cast it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
-
-
-
 
 #### Half-Siren 
 Born of a Siren and a humanoid.
@@ -165,7 +158,6 @@ Born of a Siren and a humanoid.
 |5| You decorate yourself with odd sea creatures and objects. Your skin and scales keeps them healthy and moist.
 |6| Your songs are so beautiful, sometimes you inadvertantly attract people fascinated and enarmored by your voice.
 
-
 ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and darkness as if it were dim light. 
 
 ***Amphibious.*** You can breath air and water. 
@@ -174,18 +166,15 @@ Born of a Siren and a humanoid.
 
 ***Siren's Legacy.*** You know the *shape water* cantrip. Once you reach 3rd level, you can cast *charm person* with this trait, and once you reach 5th level, you can cast *invsibility* with it. Once you cast a spell of first level or higher with this feature, you cannot cast it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
 
-
 <div class='descriptive'>
+
 ##### Male Half-Fey
 The majority of half-fey take on their mothers gender. A very small percent of half-fey are male. In some fey societies and courts, male half-fey are ill omens and seen as bad luck incarnate. These courts may go so far to hunt them and blame plagues and droughts on their existence.
+
 </div>
 
-
-\page
-
-
 ## Saurial 
-Distant lands have exotic races not commonly found throughout the lands. Saurial are a grouping of races that come from these far realms. They call no place entirely their own, and spend most of their lives as adventurers, nomads or something in between. 
+Distant lands have exotic races not commonly found throughout the explored world. Saurial are a grouping of races that come from these far realms. They call no place entirely their own, and spend most of their lives as adventurers, nomads or something in between. 
 
 Saurial have an innate desire to explore and seek out wonder wherever it lies. Some become fascinated with history, desperate to find clues of their true origin while others dedicate themesleves to understanding the other races.
 
@@ -205,7 +194,6 @@ When you choose this race, you may optionally roll or choose a quirk from the ta
 
 All Saurials share these basic attributes.
 
-
 ***Ability Score Increase.*** Your Strength score increases by 2.
 
 ***Age.*** Saurial live slightly longer than their dinosaur ancestors. The reach maturity by age 10 and rarely live longer than 60 years.
@@ -216,9 +204,9 @@ All Saurials share these basic attributes.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Thick Hide.*** While wearing no armor, your Armor Class equals 13 + your Dexterity modifier. 
+***Natural Armor.*** You have a thick protective hide. When you are not wearing armor, your AC is 13+ your Dexterity modifier. You can use your natural amrmor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor. 
 
-***Instincts.*** You gain proficeincy in the Survival skill.
+***Instincts.*** You have proficeincy in the Survival skill.
 
 ***Languages.*** You speak Common and Draconic.
 
@@ -233,7 +221,7 @@ Bladebacks are natural wizards and scientists. Their ability to defend themselve
 
 ***Natural Studies.*** You are proficient in your choice of one of the following skills: Aracana, History, and Nature.
 
-***Natural Craftsman.*** You You are proficient in your choice of one of the following artisan tools: aclehmist's supplies, cartogropher's tools, and woodcarver's tools.
+***Natural Craftsman.*** You are proficient in your choice of one of the following artisan tools: aclehmist's supplies, cartogropher's tools, and woodcarver's tools.
 
 
 #### Flyers
@@ -265,10 +253,10 @@ Finheads fit in best with other cultures. Their adaptive thinking and pack menta
 ***Bite.*** Your bite is a natural weapon and can be used to make unarmed strikes. If you hit with it, you deal 1d4 + your Strength modifier piercing damage instead of the bludgeoning damage normal for an unarmed strike. 
 
 ***Jungle Runner.*** When you take the Dash action, you ignore natural difficult terrain in jungle enviroments until the start of your next turn.
+# Variant Races and New Subraces
+##### The following races and subraces adapt existing races to fit the jungle environment in new, exciting ways.
+Many are paired directly to the new adventure, *Tomb of Annihilation*!
 
-
-
-\page
 ## Variant: Goblins with Subraces
  Goblins can vary greatly based on their region. While most goblins take on the basic traits presented in *Volo's Guide to Monsters*, others from the deep jungles have slightly altered culture. This leads to differing traits between these two subraces. 
  
@@ -278,13 +266,11 @@ Finheads fit in best with other cultures. Their adaptive thinking and pack menta
 
 All goblins share these basic attributes.
 
-
 ***Ability Score Increase.*** Your Dexterity score increases by 2 and your Constitution score increases by 1.
 
 ***Age.*** Goblins are adults by age 8 and live up to 55-60 years.
  
 ***Size.*** Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small. 
-
 
 ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't duscern color in darkness, only shades of gray. 
 
@@ -308,25 +294,22 @@ Raised in a world where creatures are not double but quadrouple their size, jung
 
 ***Alignment.*** Tribal goblins tend to lean toward chaotic in alignment due to the ever changing world around them mixed with the frequent death of clan leaders and shamans. 
 
-***Battle Stack.*** You can take the Climb onto a Bigger Creature action (detailed in the *Dugeon Master's Guide*, pg. 271)  as a bonus action on your turn. 
+***Battle Stack.*** You can take the Climb onto a Bigger Creature action (detailed in the *Dugeon Master's Guide*, pg. 271)  as a bonus action on each of your turns. 
 
-***Versatile Climbers.*** You have a climb speed of 25 feet and moving on a larger creature costs you no extra movement. 
+***Versatile Climbers.*** You have a climb speed of 25 feet. Moving on a larger creature costs you no extra movement. 
 
-
-
-
-### Dwarf Subrace: Albino 
+### Dwarf Subrace: Jungle Dwarf
+Jungle dwarves represent a subset of dwarves who reside mainly in jungle and forest coated mountains. Many have taken to the lands around their fortresses and strongholds to learn from the wilds and shape their crafts. Examples of a jungle dwarves are the Albino dwarves from the island of Chult in the Forgotten Realms setting. 
 
 ***Ability Score Improvement.*** Your Wisdom score increases by 1.
 
-
 ***Jungle Magic.*** You know the *duidcraft* cantrip. Once you reach 3rd level, you can cast *hunter's mark* with this trait, and once you reach 5th level, you can cast *pass without trace* with it. Once you cast a spell of first level or higher with this feature, you cannot cast it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.
 
+### Variant Aarakocra: Rainbow Aarakocra
+While aarakocra are native to the elemental plane of air, some have settled and adapted to a new environment. If you are playing an aarakocra from a jungle setting such as Chult in the forgotten realms, you can adopt racial traits to reflect this adaptation.
 
-
-> ##### Rainbow Aarakocra
-> If you are playing an aarakocra from a jungle setting such as Chult in the forgotten realms, you can choose to forgo your +1 Wisdom ability score and your ***Talons*** racial trait to instead gain the following:
-> 
-> ***Ability Score Improvement.*** Your Charisma score increases by 1.
-> 
-> ***Tribal Art.*** You gain proficiency with the Performance skill. 
+You can choose to forgo your ***Ability Score Improvement*** and your ***Talons*** racial traits to instead gain the following:
+ 
+***Ability Score Improvement.*** Your Charisma score increases by 1.
+ 
+***Tribal Art.*** You have proficiency in the Performance skill. 
