@@ -29,6 +29,7 @@ Just a list of ideas for when inspiration strikes or you have 15 minutes and are
 - Shardmind
 - Troglodyte
 - Undead (Zombie, Skeleton, Ghoul, Ghost, Ghast, etc)
+- Vegepygmy
 - Yuanti Malisons +?
 
 - Dark Sun races; kalashtar, mul, thri-kreen
