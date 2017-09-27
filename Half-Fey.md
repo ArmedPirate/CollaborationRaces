@@ -42,7 +42,7 @@ Born of a Siren and a humanoid.
 
 ***Amphibious.*** You can breath air and water. 
 
-***Avid Swimmer.*** You have a swim speed of 30 feet. 
+***Swim.*** You have a swimming speed of 30 feet. 
 
 ***Siren's Legacy.*** You know the *shape water* cantrip. Once you reach 3rd level, you can cast *charm person* with this trait, and once you reach 5th level, you can cast *invsibility* with it. Once you cast a spell of first level or higher with this feature, you cannot cast it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
 
