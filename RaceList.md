@@ -13,6 +13,7 @@ Just a list of ideas for when inspiration strikes or you have 15 minutes and are
 - Centaur
 - Elementals (Mephits, Magmin, Azer)
 - Fey (Boggles, Pixies, Sprites, Dryads, Sirens, Saytr)
+- Firenewet
 - Giant Race/Subrace?
 - Gnoll
 - Grung
