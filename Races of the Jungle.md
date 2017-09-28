@@ -14,7 +14,7 @@ The feral creatures of the jungle are often seen as hostile enemies that only de
 This brief guide offers rules for playing as common jungle races such as Bullywugs and Grungs while addressing some existing races and tweaking them to offer a variance to existing ways to play characters in a jungle environment.
 
 # New Races
-##### Bullywugs and Grung, Half-Fey and Saurials 
+##### Bullywugs and Grung, Half-Fey, Saurials and Vegepygmies 
 The following are three unique races commonly found in jungle settings. 
 
 ## Bullywugs and Grung
@@ -86,13 +86,11 @@ Once you use this feature, you cannot again until you complete a short or long r
 ***Languages.*** You speak Common and Grung.
 
 > ##### Variant Feat: Colored Grung Poison
-> Optionally and with DM approval, you can take this varient feat.
+> Optionally and with DM approval, you can take this variant feat.
 >
->*Prerequisite:* 4th level or higher, race: Grung.
+>*Prerequisite:* Race: Grung.
 
->Your poisonous skin trait grows more potent. You gain the following benefits:
->- You no longer must complete a short or long rest to use your ***poisonous skin*** trait again.
->- Choose one of the following colors: Green, Blue, Purple, Red, Orange. Gold. In addition to being poisoned, creatures that fail the Constitution saving throw are subjected to the affects of the Grung Poison of the specified color as detailed in *Volo's Guide to Monsters*, pg. 156 win the Variant: Grung Poison sidebar.
+>Your poisonous skin trait grows more potent. Choose one of the following colors: Green, Blue, Purple, Red, Orange. Gold. In addition to being poisoned, creatures that fail the Constitution saving throw are subjected to the affects of the Grung Poison of the specified color as detailed in *Volo's Guide to Monsters*, pg. 156 within the *Variant: Grung Poison* sidebar.
 
 ## Half-Fey
 Half-fey come into the world from a fey creature taking interest in a beautiful humanoid. While the relationships are normally lustful and fleeting, they  occasionally result in the birth of a half-fey. These lost souls are stuck between the world of the fey and the mundane life of man. One trait almost all share is their captivating beauty.
@@ -243,7 +241,7 @@ Hornheads are the only saurial subrace to lean neutral or even lawful. Superstit
 
 ***Horns.*** Your horns are natural weapons and can be used to make unarmed strikes. If you hit with it, you deal 1d4 + your Strength modifier piercing or bludgeoning damage, your choice, instead of the bludgeoning damage normal for an unarmed strike. 
 
-***Ram.*** You can take the Shove action against any creature hit by your ***Horns*** unarmed strike as a bonus action on your turn.
+***Ram.*** Whenever you hit a creature with the special unarmed strike granted by your *horns* trait, you may make an additional attack against the same target as a bonus action during that turn. This attack can only be used to attempt to make a shove a creature attack (detalied in the *Player's Handbook*, pg. 195). 
 
 #### Finheads
 Finheads fit in best with other cultures. Their adaptive thinking and pack mentality lends well to working with others regardless of situation. 
@@ -253,6 +251,37 @@ Finheads fit in best with other cultures. Their adaptive thinking and pack menta
 ***Bite.*** Your bite is a natural weapon and can be used to make unarmed strikes. If you hit with it, you deal 1d4 + your Strength modifier piercing damage instead of the bludgeoning damage normal for an unarmed strike. 
 
 ***Jungle Runner.*** When you take the Dash action, you ignore natural difficult terrain in jungle enviroments until the start of your next turn.
+
+## Vegepygmies
+These small mold creatures spawn from corpses infected with specific kinds of mold. Often tribal and primative, vegepygmies live in tight nit and reclusive communities deep within jungles across the realms. 
+
+Some vegepygmies break this cultural norm and adopt an unusual sense of curiousity. These vegepygmies grow and evolve to learn langauges and adapt their primative forms of communication to better deal and work with the other races. Adventuring vegepygmies are more than likely the adventuring vegepygmies of the world.
+
+Adventuring vegepygmies lach on to characters they are curious about and that also can communicate easily with them. These pairings become symbiotic. Vegepygmies help navigate the dangers of the jungles while their partners give them a chance to navigate and survive in city and other urban settings.
+
+### Vegepygmy Traits
+
+***Ability Score Increase.*** Your Dexterity and Constitution score increase by 1. 
+
+***Age.*** Vegepygmies grow and orm over a couple days. When they are formed, they are fully formed adults. As they age over 10-15 years, they grow additional spores and become known to outsiders as chiefs. Vegemygmies then can live indefinitely, but rarely survive in the wild past age 30. 
+
+***Alignment.*** These primiative, tribal creatures don't get involved in the dealings of good and evil. They exist in attempts only to sruvive. They typically are neutral. 
+
+***Size.*** Having spawned from mold that has attatched itself to a humanoid, your size reflects your birth. Your size is Small. 
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Plant Camouflage.*** You have advantage on Dexterity (Stealth) checks made in any terrain with ample obscurring plant life.
+
+***Regeneration.*** You regain 3 hit points at the start of your turn. If you take cold, fire or necrotic damage or are at 0 hit points, this trait doesn't function at the start of your next turn.
+
+***Slow Growth.*** When you roll to gain hit points or optionally take the average result, you can not gain more than your proficiency bonus plus your Constitution modifier hit points. If you would gain maximum hitpoints greater than your proficiency bonus plus your Constitution modifer, you instead gain your proficiency bonus plus your Constitution modifier maximum hit points.
+
+***Languages.*** You speak Common and Vegepygmy. 
+
+> #### Variant: Vegepygmy Speech
+> When you choose this race, optionally you can take this variant. You can only speek the Vegepygmy language but can still understand, read and write in other langauges. You have become well versed in pantomime, drawing and other primative forms of communication to quickly and easily communicate with creatures that speak langauges outside of your natural voice capabilities. 
+
 # Variant Races and New Subraces
 ##### The following races and subraces adapt existing races to fit the jungle environment in new, exciting ways.
 Many are paired directly to the new adventure, *Tomb of Annihilation*!
