@@ -1,4 +1,3 @@
-
 # Races of the Jungle
 
 ##### Races for Exploring High-Fantasy Jungles in the World's Greatest Roleplaying Game
@@ -15,12 +14,12 @@ This brief guide offers rules for playing as common jungle races such as Bullywu
 
 # New Races
 ##### Bullywugs and Grung, Half-Fey, Saurials and Vegepygmies 
-The following are three unique races commonly found in jungle settings. 
+The following are three unique races commonly found in jungle settings. These are exotic races, and should be brought to the table only with DM approval. 
 
 ## Bullywugs and Grung
 The frog-folk are two groups of humanoids that live within different ecosystems. Despite sharing some similar biological traits, these two cousins differ greatly in philosophy and lifestyle.
 
-Some abandon their tribal lives and sell their expertise to adventurers. Those who find adventurers inspiring seek to emulate themselves and even reach the status of hero through dedication and progression. Most frog-folk still struglle to fit in with the majority of humanoid races. Optionally, you can adopt a racial quirk from the table below.
+Some abandon their tribal lives and sell their expertise to adventurers. Those who find adventurers inspiring seek to emulate themselves and even reach the status of hero through dedication and progression. Most frog-folk still struggle to fit in with the majority of humanoid races. Optionally, you can adopt a racial quirk from the table below.
 
 |d8|Racial Quirk|
 |:--:|:--|
@@ -52,9 +51,9 @@ While grung and bullywug societies differ, their core racial traits remain the s
 ***Subrace.*** Two subraces for frog-folk exist: Bullywugs and Grung. Choose one of them for your character.
 
 #### Bullywug 
-Bullywugs are the larger swamp dwelling frog-folk. Obsessed with proving themselves and gaining the appreciation, respect or at least fear from others, bullywugs seek out adventure as a way to achieve these fundamental goals. 
+Bullywugs are the larger swamp dwelling frog-folk. Obsessed with proving themselves and gaining the appreciation, respect or at least fear from others, bullywugs seek out adventure as a way to achieve these fundamental goals. For more information on Bullywugs, see the *Monster Manual*, pg. 35.
 
-***Alignment.*** Bullywugs society and place in their world pushes them toawrds evil. Their societies focuse around appearnces and power. While some use deception and trickery to achieve these ideals and lend themselves to chaos, the majority stick to neutral methods and traits.
+***Alignment.*** Bullywugs society and place in their world pushes them towards evil. Their societies focus around appearances and power. While some use deception and trickery to achieve these ideals and lend themselves to chaos, the majority stick to neutral methods and traits.
 
 ***Swim.*** You have a swimming speed of 40 feet.
 
@@ -62,7 +61,7 @@ Bullywugs are the larger swamp dwelling frog-folk. Obsessed with proving themsel
 
 ***Swamp Camouflage.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
-In addition, ou have advantage on Dexterity (Stealth) checks made to hide in swampy terrain. 
+In addition, you have advantage on Dexterity (Stealth) checks made to hide in swampy terrain. 
 
 ***Bellowing Croak.*** As a bonus action, you let out a booming croak. Your voice becomes five times louder than normal until the start of your next turn. When using this feature, you speak up to three words in Bullywug before the effect fades. While using this feature, you can not speak any other language. 
 
@@ -90,7 +89,7 @@ Once you use this feature, you cannot again until you complete a short or long r
 >
 >*Prerequisite:* Race: Grung.
 
->Your poisonous skin trait grows more potent. Choose one of the following colors: Green, Blue, Purple, Red, Orange. Gold. In addition to being poisoned, creatures that fail the Constitution saving throw are subjected to the affects of the Grung Poison of the specified color as detailed in *Volo's Guide to Monsters*, pg. 156 within the *Variant: Grung Poison* sidebar.
+>Your poisonous skin trait grows more potent. Choose one of the following colors: Green, Blue, Purple, Red, Orange. Gold. In addition to being poisoned, creatures that fail the Constitution saving throw are subjected to the effects of the grung poison of the specified color as detailed in *Volo's Guide to Monsters*, pg. 156 within the *Variant: Grung Poison* sidebar.
 
 ## Half-Fey
 Half-fey come into the world from a fey creature taking interest in a beautiful humanoid. While the relationships are normally lustful and fleeting, they  occasionally result in the birth of a half-fey. These lost souls are stuck between the world of the fey and the mundane life of man. One trait almost all share is their captivating beauty.
@@ -115,7 +114,7 @@ Half-fey come into the world from a fey creature taking interest in a beautiful 
 
 #### Half-Dryad
 
-Half-dryads naturally grow leaves and twigs from their body, and those who take more from their dryad heritage can have altered skin colors that changes with the seasons. These colors range from vibrant green in th summer to grey and white in the winter. 
+Half-dryads naturally grow leaves and twigs from their body, and those who take more from their dryad heritage can have altered skin colors that changes with the seasons. These colors range from vibrant green in the summer to grey and white in the winter. 
 
 ***Ability Score Improvement.*** Your Wisdom score increases by 1.
 
@@ -152,9 +151,9 @@ Born of a Siren and a humanoid.
 |1| You are so pretty. So. Very. Pretty.
 |2| Your flirting can cause trouble. That's how you like it.
 |3| Your scales glint and change color to reflect your mood.
-|4| Your passion ebs and flows like the tide, causing intense but short relationships
+|4| Your passion ebbs and flows like the tide, causing intense but short relationships
 |5| You decorate yourself with odd sea creatures and objects. Your skin and scales keeps them healthy and moist.
-|6| Your songs are so beautiful, sometimes you inadvertantly attract people fascinated and enarmored by your voice.
+|6| Your songs are so beautiful, sometimes you inadvertently attract people fascinated and enamored by your voice.
 
 ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and darkness as if it were dim light. 
 
@@ -174,14 +173,14 @@ The majority of half-fey take on their mothers gender. A very small percent of h
 ## Saurial 
 Distant lands have exotic races not commonly found throughout the explored world. Saurial are a grouping of races that come from these far realms. They call no place entirely their own, and spend most of their lives as adventurers, nomads or something in between. 
 
-Saurial have an innate desire to explore and seek out wonder wherever it lies. Some become fascinated with history, desperate to find clues of their true origin while others dedicate themesleves to understanding the other races.
+Saurial have an innate desire to explore and seek out wonder wherever it lies. Some become fascinated with history, desperate to find clues of their true origin while others dedicate themselves to understanding the other races.
 
 When you choose this race, you may optionally roll or choose a quirk from the table below to adopt.
 
 |d8|Racial Quirk|
 |:--:|:--|
 |1| Love and passion don't really mean anything to you. You are eager to learn, but have trouble understanding.
-|2| Your desire to explore extends into your subconcious. You sleep walk.
+|2| Your desire to explore extends into your subconscious. You sleepwalk.
 |3| Your tough hide attracts bugs which attracts birds. You've become good friends with the birds.
 |4| You do not break eye contact with whatever you are talking to.
 |5| "Wait, I'm supposed to use my hands to eat?"
@@ -202,9 +201,9 @@ All Saurials share these basic attributes.
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Natural Armor.*** You have a thick protective hide. When you are not wearing armor, your AC is 13+ your Dexterity modifier. You can use your natural amrmor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor. 
+***Natural Armor.*** You have a thick protective hide. When you are not wearing armor, your AC is 13+ your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor. 
 
-***Instincts.*** You have proficeincy in the Survival skill.
+***Instincts.*** You have proficiency in the Survival skill.
 
 ***Languages.*** You speak Common and Draconic.
 
@@ -217,9 +216,9 @@ Bladebacks are natural wizards and scientists. Their ability to defend themselve
 
 ***Plated Tail.*** Your tail is a natural weapon and can be used to make unarmed strikes. If you hit with it, you deal 1d6 + your Strength modifier piercing damage instead of the bludgeoning damage normal for an unarmed strike. 
 
-***Natural Studies.*** You are proficient in your choice of one of the following skills: Aracana, History, and Nature.
+***Natural Studies.*** You are proficient in your choice of one of the following skills: Arcana, History, and Nature.
 
-***Natural Craftsman.*** You are proficient in your choice of one of the following artisan tools: aclehmist's supplies, cartogropher's tools, and woodcarver's tools.
+***Natural Craftsman.*** You are proficient in your choice of one of the following artisan tools: alchemist's supplies, cartographer's tools, and woodcarver's tools.
 
 
 #### Flyers
@@ -233,15 +232,15 @@ Flyers are the only saurial that posses the ability to fly. Their leathery wings
 
 
 #### Hornheads
-Hornheads are the only saurial subrace to lean neutral or even lawful. Superstitious and set in their ways, hornheads will band together with other outsiders to form organizations to protect themsevles from hostile majorities.
+Hornheads are the only saurial subrace to lean neutral or even lawful. Superstitious and set in their ways, hornheads will band together with other outsiders to form organizations to protect themselves from hostile majorities.
 
 ***Ability Score Increase.*** Your Constitution score increases by 1 and your Wisdom score increases by 1. 
 
-***Devout.*** You are proficient in your choice of one the following skills: History or Religon.
+***Devout.*** You are proficient in your choice of one the following skills: History or Religion.
 
 ***Horns.*** Your horns are natural weapons and can be used to make unarmed strikes. If you hit with it, you deal 1d4 + your Strength modifier piercing or bludgeoning damage, your choice, instead of the bludgeoning damage normal for an unarmed strike. 
 
-***Ram.*** Whenever you hit a creature with the special unarmed strike granted by your *horns* trait, you may make an additional attack against the same target as a bonus action during that turn. This attack can only be used to attempt to make a shove a creature attack (detalied in the *Player's Handbook*, pg. 195). 
+***Ram.*** Whenever you hit a creature with the special unarmed strike granted by your *horns* trait, you may make an additional attack against the same target as a bonus action during that turn. This attack can only be used to attempt to make a shove a creature attack (detailed in the *Player's Handbook*, pg. 195). 
 
 #### Finheads
 Finheads fit in best with other cultures. Their adaptive thinking and pack mentality lends well to working with others regardless of situation. 
@@ -250,14 +249,14 @@ Finheads fit in best with other cultures. Their adaptive thinking and pack menta
 
 ***Bite.*** Your bite is a natural weapon and can be used to make unarmed strikes. If you hit with it, you deal 1d4 + your Strength modifier piercing damage instead of the bludgeoning damage normal for an unarmed strike. 
 
-***Jungle Runner.*** When you take the Dash action, you ignore natural difficult terrain in jungle enviroments until the start of your next turn.
+***Jungle Runner.*** When you take the Dash action, you ignore natural difficult terrain in jungle environments until the start of your next turn.
 
 ## Vegepygmies
-These small mold creatures spawn from corpses infected with specific kinds of mold. Often tribal and primative, vegepygmies live in tight nit and reclusive communities deep within jungles across the realms. 
+These small mold creatures spawn from corpses infected with specific kinds of mold. Often tribal and primitive, vegepygmies live in tight nit and reclusive communities deep within jungles across the realms. 
 
-Some vegepygmies break this cultural norm and adopt an unusual sense of curiousity. These vegepygmies grow and evolve to learn langauges and adapt their primative forms of communication to better deal and work with the other races. Adventuring vegepygmies are more than likely the adventuring vegepygmies of the world.
+Some vegepygmies break this cultural norm and adopt an unusual sense of curiosity. These fungi grow and evolve to learn languages and adapt their primitive forms of communication to better deal and work with the other races. 
 
-Adventuring vegepygmies lach on to characters they are curious about and that also can communicate easily with them. These pairings become symbiotic. Vegepygmies help navigate the dangers of the jungles while their partners give them a chance to navigate and survive in city and other urban settings.
+Adventuring vegepygmies latch on to characters that interest them and can communicate easily with. These pairings are symbiotic; the vegepygmie helps navigate the dangers of the jungles while their partner gives them a tools to navigate and survive in city or other urban settings.
 
 For more information about vegepygmies, see *Volo's Guide to Monsters* pg. 196.
 
@@ -265,30 +264,32 @@ For more information about vegepygmies, see *Volo's Guide to Monsters* pg. 196.
 
 ***Ability Score Increase.*** Your Dexterity and Constitution score increase by 1. 
 
-***Age.*** Vegepygmies grow and orm over a couple days. When they are formed, they are fully formed adults. As they age over 10-15 years, they grow additional spores and become known to outsiders as chiefs. Vegemygmies then can live indefinitely, but rarely survive in the wild past age 30. 
+***Age.*** Vegepygmies grow and develop over a couple days. When they are formed, they are fully formed adults. As they age over 10-15 years, they grow additional spores and become known to outsiders as chiefs. Vegemygmies then can live indefinitely, but rarely survive in the wild past age 30. 
 
-***Alignment.*** These primiative, tribal creatures don't get involved in the dealings of good and evil. They exist in attempts only to sruvive. They typically are neutral. 
+***Alignment.*** These primitive tribal creatures don't get involved in the dealings of good and evil. They exist in attempts only to survive. They typically are neutral. 
 
-***Size.*** Having spawned from mold that has attatched itself to a humanoid, your size reflects your birth. Your size is Small. 
+***Size.***  Vegepygmies grow to about 3 feet tall. Your size is Small. 
 
 ***Speed.*** Your base walking speed is 30 feet.
 
-***Plant.*** Your type is Plant. You can speak and communicate with creatures under the affects of the spell *speak with plants* as if they spoke vegepygmy.
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. 
 
-***Plant Camouflage.*** You have advantage on Dexterity (Stealth) checks made in any terrain with ample obscurring plant life.
+***Plant.*** Your type is Plant. You can speak and communicate with creatures under the effects of the spell *speak with plants* as if they spoke vegepygmy.
 
-***Plant Friend.*** You can cast the spell *speak with plants* at will, without consuming a spell slot. 
+***Plant Camouflage.*** You have advantage on Dexterity (Stealth) checks made in any terrain with ample obscuring plant life.
+
+***Plant Friend.*** You know the *speak with plants* spell and can cast it at will without consuming a spell slot. Wisdom is your spellcasting modifier for this spell.
 
 ***Regeneration.*** You regain 3 hit points at the start of your turn. If you take cold, fire or necrotic damage or are at 0 hit points, this trait doesn't function at the start of your next turn.
 
-***Slow Growth.*** When you roll to gain hit points or optionally take the average result, you can not gain more than your proficiency bonus plus your Constitution modifier hit points. If you would gain maximum hitpoints greater than your proficiency bonus plus your Constitution modifer, you instead gain your proficiency bonus plus your Constitution modifier maximum hit points.
+***Slow Growth.*** When you roll to gain hit points or optionally take the average result, you can not gain more than your proficiency bonus plus your Constitution modifier hit points. If you would gain maximum hitpoints greater than your proficiency bonus plus your Constitution modifier, you instead gain your proficiency bonus plus your Constitution modifier maximum hit points.
 
 This trait does not affect your starting total maximum hit points. 
 
 ***Languages.*** You speak Common and Vegepygmy. 
 
 > #### Variant: Vegepygmy Speech
-> When you choose this race, optionally you can take this variant. You can only speek the Vegepygmy language but can still understand, read and write in other langauges. You have become well versed in pantomime, drawing and other primative forms of communication to quickly and easily communicate with creatures that speak langauges outside of your natural voice capabilities. 
+> When you choose this race, optionally you can take this variant. You can only speak the Vegepygmy language but can still understand, read and write in other languages. You have become well versed in pantomime, drawing and other primitive forms of communication to quickly and easily communicate with creatures that speak languages outside of your natural voice capabilities. 
 
 # Variant Races and New Subraces
 ##### The following races and subraces adapt existing races to fit the jungle environment in new, exciting ways.
@@ -297,7 +298,7 @@ Many are paired directly to the new adventure, *Tomb of Annihilation*!
 ## Variant: Goblins with Subraces
  Goblins can vary greatly based on their region. While most goblins take on the basic traits presented in *Volo's Guide to Monsters*, others from the deep jungles have slightly altered culture. This leads to differing traits between these two subraces. 
  
- Optionally, you can use these golbin racial traits in place of the goblin racial traits presented in *Volo's Guide to Monsters* upon DM approval.
+ Optionally, you can use these goblin racial traits in place of the goblin racial traits presented in *Volo's Guide to Monsters* upon DM approval.
 
 ### Goblin Traits
 
@@ -309,7 +310,9 @@ All goblins share these basic attributes.
  
 ***Size.*** Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small. 
 
-***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't duscern color in darkness, only shades of gray. 
+***Speed.*** Your base walking speed is 30 feet. 
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. 
 
 ***Quick Hide.*** You can take the Hide action as a bonus action on each of your turns. 
 
@@ -327,11 +330,11 @@ Urban goblins are the traditional goblins found all across the realms. They enga
 ***Fury of the Small.***  You have the *Fury of the Small* trait as detailed in *Volo's Guide to Monsters*, pg. 119. 
 
 #### Tribal Goblins
-Raised in a world where creatures are not double but quadrouple their size, jungle golbins have adapted to their environment. Tribes such as the Batiri trbie within Chult have these characteristics.
+Raised in a world where creatures are not double but quadruple their size, jungle goblins have adapted to their environment. Tribes such as the Batiri tribe within Chult have these characteristics.
 
 ***Alignment.*** Tribal goblins tend to lean toward chaotic in alignment due to the ever changing world around them mixed with the frequent death of clan leaders and shamans. 
 
-***Battle Stack.*** You can take the Climb onto a Bigger Creature action (detailed in the *Dugeon Master's Guide*, pg. 271)  as a bonus action on each of your turns. 
+***Battle Stack.*** You can take the Climb onto a Bigger Creature action (detailed in the *Dungeon Master's Guide*, pg. 271)  as a bonus action on each of your turns. 
 
 ***Versatile Climbers.*** You have a climb speed of 25 feet. Moving on a larger creature costs you no extra movement. 
 
@@ -350,3 +353,6 @@ You can choose to forgo your ***Ability Score Improvement*** and your ***Talons*
 ***Ability Score Improvement.*** Your Charisma score increases by 1.
  
 ***Tribal Art.*** You have proficiency in the Performance skill. 
+
+
+
