@@ -259,6 +259,8 @@ Some vegepygmies break this cultural norm and adopt an unusual sense of curiousi
 
 Adventuring vegepygmies lach on to characters they are curious about and that also can communicate easily with them. These pairings become symbiotic. Vegepygmies help navigate the dangers of the jungles while their partners give them a chance to navigate and survive in city and other urban settings.
 
+For more information about vegepygmies, see *Volo's Guide to Monsters* pg. 196.
+
 ### Vegepygmy Traits
 
 ***Ability Score Increase.*** Your Dexterity and Constitution score increase by 1. 
@@ -271,11 +273,17 @@ Adventuring vegepygmies lach on to characters they are curious about and that al
 
 ***Speed.*** Your base walking speed is 30 feet.
 
+***Plant.*** Your type is Plant. You can speak and communicate with creatures under the affects of the spell *speak with plants* as if they spoke vegepygmy.
+
 ***Plant Camouflage.*** You have advantage on Dexterity (Stealth) checks made in any terrain with ample obscurring plant life.
+
+***Plant Friend.*** You can cast the spell *speak with plants* at will, without consuming a spell slot. 
 
 ***Regeneration.*** You regain 3 hit points at the start of your turn. If you take cold, fire or necrotic damage or are at 0 hit points, this trait doesn't function at the start of your next turn.
 
 ***Slow Growth.*** When you roll to gain hit points or optionally take the average result, you can not gain more than your proficiency bonus plus your Constitution modifier hit points. If you would gain maximum hitpoints greater than your proficiency bonus plus your Constitution modifer, you instead gain your proficiency bonus plus your Constitution modifier maximum hit points.
+
+This trait does not affect your starting total maximum hit points. 
 
 ***Languages.*** You speak Common and Vegepygmy. 
 
