@@ -31,6 +31,7 @@ Just a list of ideas for when inspiration strikes or you have 15 minutes and are
 - Undead (Zombie, Skeleton, Ghoul, Ghost, Ghast, etc)
 - Vegepygmy
 - Yuanti Malisons +?
+- Xvart 
 
 - Dark Sun races; kalashtar, mul, thri-kreen
 - Vampire/Werewolf Race Variants (as Revenant) 
