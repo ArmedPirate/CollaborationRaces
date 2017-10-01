@@ -6,7 +6,7 @@
 
 ***Age.***
 
-***Alignment.**
+***Alignment.***
 
 ***Speed.***  Bladelings tend to be tall and lean, but heavier than a human of the same build.  Your size is Medium.
 
