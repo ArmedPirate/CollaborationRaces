@@ -8,10 +8,13 @@ Just a list of ideas for when inspiration strikes or you have 15 minutes and are
 
 - Abberation
 - Angel/Demon (Archons, Imps, etc)
+- Bariaurs
 - Bladeling
 - Bullywug
+- Buomman
 - Centaur
 - Elementals (Mephits, Magmin, Azer)
+- Fetchling
 - Fey (Boggles, Pixies, Sprites, Dryads, Sirens, Saytr)
 - Firenewet
 - Giant Race/Subrace?
@@ -31,7 +34,9 @@ Just a list of ideas for when inspiration strikes or you have 15 minutes and are
 - Undead (Zombie, Skeleton, Ghoul, Ghost, Ghast, etc)
 - Vegepygmy
 - Yuanti Malisons +?
+- Wildren 
 - Xvart 
+
 
 - Dark Sun races; kalashtar, mul, thri-kreen
 - Vampire/Werewolf Race Variants (as Revenant) 
