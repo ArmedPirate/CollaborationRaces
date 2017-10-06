@@ -17,3 +17,5 @@ Allows ease of read and navigation for existing features
 
 ### Follow Common Formatting rules within base traits
 
+### Conisder a Planar Race Guide
+With Sigil heavily being hinted at as the next setting, creating a Planar Race guide could be fruitful. Consider core races and planar races seperately (examples being Modrons and Bladelings vs Centaurs and Bullywugs)
