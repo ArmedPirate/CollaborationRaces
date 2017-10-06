@@ -53,7 +53,7 @@ Tridones handle the direct engagements and order about the lowest rank of soldie
 
 ***Ability Score Improvement.*** Your Charisma increases by 1.
 
-***Extra Arm.*** You can carry up to three items that would require one hand in your open hand. You can not gain the benefits of wielding a shield if it is wileded in this extra hand.
+***Extra Arm.*** You have one additional arm and hand for the sake of carrying items and wielding weapons. You can not gain the benefits of wielding a shield if it is wileded in this extra hand.
 
 ***Tactician.*** You gain proficiency in Navigator's Tools.
 
