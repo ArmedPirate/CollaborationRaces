@@ -21,3 +21,4 @@
 Once you use this feature, you can't do so again until you finish a short or long rest.
 
 ***Languages.***  You can speak, read, and write Common and your choice of either Abyssal or Infernal.
+
