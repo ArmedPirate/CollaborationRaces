@@ -1,5 +1,5 @@
 ## Faulty/Modrons
-The lawful being in the mutliverse
+The lawful beings in the mutliverse
 ### Racial Traits
 ***Ability Score Improvement.*** Your Constitution score increases by 2. 
 
