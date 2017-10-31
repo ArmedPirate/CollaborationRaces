@@ -14,7 +14,7 @@ Minions of the raven queen, these grey skinned black eyed humanoids reside on th
 
 ***Darkvision.*** Darkvision 60.
 
-***Shadow Vault.*** As an action on your turn, you become insubstantial and teleport to an unoccupied space you can see within 15 feet of you. You become *insubstantial* until the start of your next turn. 
+***Shadow Vault.*** As an action on your turn, you teleport to an unoccupied space you can see within 15 feet of you. You become *insubstantial* until the start of your next turn. 
 
 Once you use this trait, you can not use it again until you finish a short or long rest. 
 
@@ -23,9 +23,9 @@ Once you use this trait, you can not use it again until you finish a short or lo
 >A creature that is *insubstantial* has resistance to all damage types and all damage the creature deals is halved. 
 >
 
-***Chosen of the Raven Queen.*** Choose either the Acrobatics or Stealth skill. You are proficient in the chosen skill.
+***Shadowfell Native.*** Choose either the Acrobatics or Stealth skill. You are proficient in the chosen skill.
 
 ***Fortune of the Raven Queen.*** You are considered proficient with death saving throws, and may add your proficiency bonus to any death saving throw you make. 
 
-***Languages.*** You speak Common. 
+***Languages.*** You speak Common and Shadar-kai. 
 
